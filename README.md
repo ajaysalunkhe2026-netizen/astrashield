@@ -44,13 +44,12 @@ The development of quantum computing poses a significant threat known as **"Harv
 
 ## 📜 License
 
-This project is available under the MIT License.
-
-```
+This project is available under the MIT Licens
 ## 📸 Project Previews
 
 | 💻 Tool Interface | 📊 Security Report |
 | :---: | :---: |
+| ![Tool Terminal](image/screenshot3.png) | ![Report Output](image/screenshot1.png) |
 | ![Tool Terminal](image/screenshot3.png) | ![Report Output](image/screenshot1.png) |
 
 
